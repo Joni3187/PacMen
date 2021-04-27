@@ -1,4 +1,6 @@
-# pacmen
+# PacMen
+## PacMen Exercise
+
 Factory for making pacmen
 
 When button "make one" is pressed you need to complete the code 
@@ -6,4 +8,4 @@ to position the new pacman image and add it to the "game" div. It is then added 
 You also need to make each pacman bounce off any wall it hits. 
 Start by getting at least one pacman positioned and viewable. 
 
-<img src="PacMan1.png">
+<img src="PacMan1.png" width='300'/>
